@@ -1,0 +1,6 @@
+[book]
+authors = ["0xrin1"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Joint Protocol"
